@@ -64,5 +64,5 @@
   "dependencies": {
     "hammerjs": "^2.0.8"
   },
-  "packageManager": "yarn@4.9.1"
+  "packageManager": "yarn@4.12.0"
 }
